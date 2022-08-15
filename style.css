@@ -21,7 +21,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .main-sec{
-    height: 100vh;
+    height: 100%;
     width: 100%;
     position: relative;
 }
@@ -116,7 +116,7 @@ ul{
 /*/section one ends here/*/
 
 .about-sec{
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 .about-div p{
@@ -138,7 +138,7 @@ ul{
 /*/section two ends here/*/
 
 .projects-sec{
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 .projects-div img{
@@ -161,7 +161,7 @@ ul{
 /*/section three ends here/*/
 
 .contact-sec{
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 .contact-div{
